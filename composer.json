@@ -1,0 +1,20 @@
+{
+    "name": "m314366770/aliyun-opensearch",
+    "description": "aliyun opensearch sdk",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "m314366770",
+            "email": "314366770@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "OpenSearch\\": "OpenSearch/"
+        }
+    },
+    "require": {
+    }
+}
